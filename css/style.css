@@ -1,0 +1,39 @@
+
+body  {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+nav{
+    display: flex;
+}
+nav li {
+    list-style: none;
+    margin-right: 50px;
+}
+nav li a {
+    text-decoration: none;
+}
+.nav-head{
+    font-size: 45px;
+    font-weight: 800;
+    text-align: left;
+    color: rgb(24, 24, 24);
+
+}
+.nav-r{
+    color: rgb(253, 110, 10);
+
+}
+.nav-text
+{
+    color: rgb(71, 71, 71);
+    font-size: 20px;
+    font-weight: 400;
+    display: flex;
+    
+}
+
